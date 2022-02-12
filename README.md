@@ -6,6 +6,8 @@ such as forwards, futures options and swaps. We focused on the valuation, invest
 The Valuation principles were based on No Arbitrage principal, and we looked a the basic understanding of all the major calculations.
 
 
+As a part of the project and class Project, we had to establish solutions to major real life scenario problems, The class was supposed to solve the problems on paper or use excel but I have implemented those problem sets and exercises on python.
+
 Topics Covered
 1. Understanding Risk Sharing Ideas
 2. Payoff/Profits of forwards and futures
